@@ -2,6 +2,8 @@
 
 This project provides three versions of Aadhaar number detection and masking for scanned or digital copies of documents. These versions offer varying levels of complexity, efficiency, and additional features. Choose the version based on your requirements.
 
+Links (yolo model and weights): [https://drive.google.com/drive/folders/1gK7junQz-qib8Iqq0EIidT8kV-0cYgsN?usp=sharing](https://drive.google.com/drive/folders/1gK7junQz-qib8Iqq0EIidT8kV-0cYgsN?usp=sharing)
+
 ## Algorithm Overview
 
 * Utilizes **ISR.models RRDN** for image enhancement and **pytesseract** for Aadhaar UID recognition.
