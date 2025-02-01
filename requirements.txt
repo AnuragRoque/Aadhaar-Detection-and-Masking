@@ -1,0 +1,15 @@
+ISR
+numpy
+pytesseract
+pdf2image
+img2pdf
+PyPDF2
+tifftools
+tk-tools
+opencv-python
+poppler-utils
+pillow
+regex
+tk
+tkinter
+openpyxl
